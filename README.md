@@ -1,0 +1,2 @@
+# playsmf
+VBAによるMIDIファイル再生
